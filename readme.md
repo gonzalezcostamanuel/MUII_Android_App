@@ -179,19 +179,20 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 -->
 
-
+https://github.com/gonzalezcostamanuel/MUII_Android_App#built-with
+https://github.com/gonzalezcostamanuel/MUII_Android_App
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/gonzalezcostamanuel/MUII_Android_App.svg?style=for-the-badge
 [contributors-url]: https://github.com/gonzalezcostamanuel/MUII_Android_App/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/gonzalezcostamanuel/MUII_Android_App.svg?style=for-the-badge
 [forks-url]: https://github.com/gonzalezcostamanuel/MUII_Android_App/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/gonzalezcostamanuel/MUII_Android_App.svg?style=for-the-badge
 [stars-url]: https://github.com/gonzalezcostamanuel/MUII_Android_App/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/gonzalezcostamanuel/MUII_Android_App.svg?style=for-the-badge
 [issues-url]: https://github.com/gonzalezcostamanuel/MUII_Android_App/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/gonzalezcostamanuel/MUII_Android_App.svg?style=for-the-badge
 [license-url]: https://github.com/gonzalezcostamanuel/MUII_Android_App/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
