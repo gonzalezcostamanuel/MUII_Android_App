@@ -12,10 +12,8 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
+![GitHub commit activity](https://img.shields.io/github/commit-activity/y/gonzalezcostamanuel/MUII_Android_App?style=for-the-badge)
+
 <!--
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
@@ -184,6 +182,7 @@ https://github.com/gonzalezcostamanuel/MUII_Android_App
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
+[GitHub-commit-activity]:https://img.shields.io/github/commit-activity/y/gonzalezcostamanuel/MUII_Android_App?style=for-the-badge
 [contributors-shield]: https://img.shields.io/github/contributors/gonzalezcostamanuel/MUII_Android_App.svg?style=for-the-badge
 [contributors-url]: https://github.com/gonzalezcostamanuel/MUII_Android_App/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/gonzalezcostamanuel/MUII_Android_App.svg?style=for-the-badge
